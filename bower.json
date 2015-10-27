@@ -1,0 +1,23 @@
+{
+  "name": "easyBus",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Tufnell <mattlaver@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

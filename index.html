@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/departure-board.css" />
+</head>
+<body>
+<div id="academy"></div>
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/departure-board.js"></script>
+
+<script>
+    var board = new DepartureBoard (document.getElementById ('academy'), { rowCount: 8, letterCount: 26 });
+
+    board.setValue (['Academy Bus Timetable']);
+
+    var socket = io.connect('http://localhost:4200');
+
+    socket.on('latestTimes', function(data) {
+        board.setValue (data);
+    });
+</script>
+</body>
+</html>  
