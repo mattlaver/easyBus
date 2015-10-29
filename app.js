@@ -7,6 +7,7 @@ var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 var academy = require('./timetables/academy.json');
 var timetable = require('./timetable.js');
+var port = process.env.PORT || 4200
 
 app.use(express.static('public'));
 
@@ -32,4 +33,4 @@ io.on('connection', function(client) {
 
 });
 
-server.listen(4200);
+server.listen(port);
