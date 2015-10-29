@@ -1,6 +1,11 @@
 var Timetable = function () {};
 
 Timetable.prototype.leavingSoon = function (currentTime, jsonTimetable) {
+
+    function pad(n) {
+        return (n < 10) ? ("0" + n) : n;
+    }
+
     var arr = new Array();
 
     for (var i=0; i < jsonTimetable.length; i++) {
@@ -25,7 +30,7 @@ Timetable.prototype.leavingSoon = function (currentTime, jsonTimetable) {
             var h = busTime.getHours();
             var m = busTime.getMinutes();
 
-            var time = h.toString() + ':' + m.toString();
+            var time = pad(h.toString()) + ':' + pad(m.toString());
             arr.push(time + ' ' + obj.destination);
         }
     }

@@ -70,6 +70,11 @@
     "destination": "Eaton Green"
   },
   {
+    "bus": "B",
+    "time": "10.00",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "10.05",
     "destination": "Eaton Green"
@@ -80,14 +85,29 @@
     "destination": "Eaton Green"
   },
   {
+    "bus": "B",
+    "time": "10.20",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "10.25",
     "destination": "Eaton Green, Station"
   },
   {
+    "bus": "B",
+    "time": "10.40",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "10.55",
     "destination": "Eaton Green"
+  },
+  {
+    "bus": "B",
+    "time": "11.00",
+    "destination": "Hanger 89"
   },
   {
     "bus": "A",
@@ -100,6 +120,16 @@
     "destination": "Eaton Green, Station"
   },
   {
+    "bus": "B",
+    "time": "11.20",
+    "destination": "Hanger 89"
+  },
+  {
+    "bus": "B",
+    "time": "11.40",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "11.45",
     "destination": "Eaton Green"
@@ -110,14 +140,29 @@
     "destination": "Eaton Green"
   },
   {
+    "bus": "B",
+    "time": "12.00",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "12.05",
     "destination": "Eaton Green, Station"
   },
   {
+    "bus": "B",
+    "time": "12.20",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "12.35",
     "destination": "Eaton Green"
+  },
+  {
+    "bus": "B",
+    "time": "12.40",
+    "destination": "Hanger 89"
   },
   {
     "bus": "A",
@@ -130,6 +175,16 @@
     "destination": "Eaton Green, Station"
   },
   {
+    "bus": "B",
+    "time": "13.00",
+    "destination": "Hanger 89"
+  },
+  {
+    "bus": "B",
+    "time": "13.20",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "13.25",
     "destination": "Eaton Green"
@@ -140,14 +195,29 @@
     "destination": "Eaton Green"
   },
   {
+    "bus": "B",
+    "time": "13.40",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "13.45",
     "destination": "Eaton Green, Station"
   },
   {
+    "bus": "B",
+    "time": "14.00",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "14.15",
     "destination": "Eaton Green"
+  },
+  {
+    "bus": "B",
+    "time": "14.20",
+    "destination": "Hanger 89"
   },
   {
     "bus": "A",
@@ -160,6 +230,16 @@
     "destination": "Eaton Green, Station"
   },
   {
+    "bus": "B",
+    "time": "14.40",
+    "destination": "Hanger 89"
+  },
+  {
+    "bus": "B",
+    "time": "15.00",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "15.05",
     "destination": "Eaton Green"
@@ -170,14 +250,29 @@
     "destination": "Eaton Green"
   },
   {
+    "bus": "B",
+    "time": "15.20",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "15.25",
     "destination": "Eaton Green, Station"
   },
   {
+    "bus": "B",
+    "time": "15.40",
+    "destination": "Hanger 89"
+  },
+  {
     "bus": "A",
     "time": "15.55",
     "destination": "Eaton Green"
+  },
+  {
+    "bus": "B",
+    "time": "16.00",
+    "destination": "Hanger 89"
   },
   {
     "bus": "A",
