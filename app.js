@@ -19,7 +19,9 @@ io.on('connection', function(client) {
 
     function broadcastTimes() {
         var dateNow = new Date();
-        var times = timetable.Timetable.leavingSoon(dateNow, academy);
+        dateNow.setHours(14);
+
+        var times = timetable.leavingSoon(dateNow, academy);
 
         client.broadcast.emit('latestTimes', times);
     }
