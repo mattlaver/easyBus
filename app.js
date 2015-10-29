@@ -17,18 +17,17 @@ app.get('/', function(req, res,next) {
 
 io.on('connection', function(client) {
 
-    client.on('messages', function(data) {
-        client.emit('broad', data);
-        client.broadcast.emit('broad',data);
-    });
-
-    setInterval(function() {
+    function broadcastTimes() {
         var dateNow = new Date();
         var times = timetable.Timetable.leavingSoon(dateNow, academy);
 
-       // console.log('times returned' + times)
         client.broadcast.emit('latestTimes', times);
+    }
 
+    broadcastTimes();
+
+    setInterval(function() {
+        broadcastTimes();
     }, 10000);
 
 });

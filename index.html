@@ -18,6 +18,10 @@
     var host = location.origin.replace(/^http/, 'ws')
     var socket = io.connect(host);
 
+    socket.on('connect',function(data) {
+        board.setValue (data);
+    });
+
     socket.on('latestTimes', function(data) {
         board.setValue (data);
     });
