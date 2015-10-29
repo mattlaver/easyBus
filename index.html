@@ -15,7 +15,8 @@
 
     board.setValue (['Academy Bus Timetable']);
 
-    var socket = io.connect('http://ezl23527:4200');
+    var host = location.origin.replace(/^http/, 'ws')
+    var socket = io.connect(host);
 
     socket.on('latestTimes', function(data) {
         board.setValue (data);
