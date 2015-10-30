@@ -324,11 +324,7 @@
     "time": "17.35",
     "destination": "Eaton Green"
   },
-  {
-    "bus": "B",
-    "time": "17.35",
-    "destination": "Eaton Green"
-  },
+
   {
     "bus": "A",
     "time": "17.45",
@@ -351,11 +347,6 @@
   },
   {
     "bus": "A",
-    "time": "18.25",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "B",
     "time": "18.25",
     "destination": "Eaton Green"
   },

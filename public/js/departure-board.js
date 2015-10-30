@@ -61,7 +61,7 @@ DepartureBoard.prototype.setValue = function (value) {
 				window.setTimeout (function () {
 					var letterValue = value[r].substr (i, 1) || '';
 					me._letters[r][i].setValue (letterValue);
-				}, 2000 * r + 25 * i + Math.random () * 400);
+				}, 100 * r + 25 * i + Math.random () * 400);
 			})(r, i);
 		}
 	}
