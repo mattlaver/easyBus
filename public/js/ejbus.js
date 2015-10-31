@@ -16,4 +16,4 @@ socket.on('latestTimes', function(data) {
         board.setValue (data.hanger);
     } else board.setValue (data.academy);
 
-});
+})

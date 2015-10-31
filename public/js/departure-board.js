@@ -92,7 +92,7 @@ DepartureBoard.Letter = function () {
 	this._element.appendChild (this._top);
 	
 	this._topText = document.createElement ('span');
-	this._topText.className = 'text';
+	this._topText.className = '';
 	this._top.appendChild (this._topText);
 	
 
@@ -119,7 +119,7 @@ DepartureBoard.Letter = function () {
 };
 
 
-DepartureBoard.Letter.DROP_TIME = 100;
+DepartureBoard.Letter.DROP_TIME = 10;
 
 
 
