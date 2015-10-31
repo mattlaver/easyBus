@@ -5,6 +5,12 @@
 </head>
 <body>
 <div id="academy"></div>
+<div >
+<a href="/" style="font-size: 10px; text-decoration: none">[Academy Departures]</a>
+<a href="/hanger" style="font-size: 10px; text-decoration: none">[Hanger Departures]</a>
+<a href="/station" style="font-size: 10px; text-decoration: none">[Station Departures]</a>
+
+</div>
 
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <script src="/socket.io/socket.io.js"></script>
@@ -18,12 +24,17 @@
     var host = location.origin.replace(/^http/, 'ws')
     var socket = io.connect(host);
 
-    socket.on('connect',function(data) {
-        board.setValue (data);
-    });
+    var url = document.URL;
+    var isStation = url.toLowerCase().indexOf("station") > -1;
+    var isHanger = url.toLowerCase().indexOf("hanger") > -1;
 
     socket.on('latestTimes', function(data) {
-        board.setValue (data);
+        if (isStation) {
+            board.setValue (data.station);
+        } else if (isHanger) {
+            board.setValue (data.hanger);
+        } else board.setValue (data.academy);
+
     });
 </script>
 </body>

@@ -55,4 +55,13 @@ describe('Timetable', function() {
         })
 
     });
+
+    describe('leavingSoon', function () {
+       it('should contain the title', function() {
+           var date = new Date();
+           var theTitle = 'the title';
+           var times = timetable.leavingSoon(date, [], theTitle);
+           assert.equal(theTitle, times[0]);
+       });
+    });
 });

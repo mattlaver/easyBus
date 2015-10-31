@@ -1,90 +1,137 @@
 [
   {
     "bus": "A",
-    "time": "07.20"
+    "time": "07.20",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "B",
-    "time": "07.45"
+    "time": "07.45",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "08.10"
+    "time": "08.10",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "B",
-    "time": "08.35"
+    "time": "08.35",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "09.00"
+    "time": "09.00",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "B",
-    "time": "09.25"
+    "time": "09.25",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "09.50"
+    "time": "09.50",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "10.40"
+    "time": "10.40",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "11.30"
+    "time": "11.30",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "12.20"
+    "time": "12.20",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "13.10"
+    "time": "13.10",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "14.00"
+    "time": "14.00",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "14.50"
+    "time": "14.50",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "15.40"
+    "time": "15.40",
+    "destination": "Eaton Green, Academy"
+  },
+  {
+    "bus": "B",
+    "time": "16.20",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "16.30"
+    "time": "16.30",
+    "destination": "Eaton Green, Academy"
+  },
+  {
+    "bus": "B",
+    "time": "17.10",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "17.20"
+    "time": "17.20",
+    "destination": "Eaton Green, Academy"
+  },
+  {
+    "bus": "B",
+    "time": "18.00",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "18.10"
+    "time": "18.10",
+    "destination": "Eaton Green, Academy"
+  },
+  {
+    "bus": "B",
+    "time": "18.50",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "19.00"
+    "time": "19.00",
+    "destination": "Eaton Green, Academy"
+  },
+  {
+    "bus": "B",
+    "time": "19.40",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "19.50"
+    "time": "19.50",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "20.40"
+    "time": "20.40",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "21.30"
+    "time": "21.30",
+    "destination": "Eaton Green, Academy"
   },
   {
     "bus": "A",
-    "time": "23.30"
+    "time": "23.30",
+    "destination": "Eaton Green, Academy"
   }
 ]

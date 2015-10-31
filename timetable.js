@@ -31,9 +31,10 @@ var Timetable = function () {
         return time + ' ' + busObject.destination;
     }
 
-    function leavingSoon(currentTime, jsonTimetable) {
+    function leavingSoon(currentTime, jsonTimetable, title) {
 
         var arr = [];
+        arr.push(title);
 
         for (var i = 0; i < jsonTimetable.length; i++) {
             var obj = jsonTimetable[i];
@@ -42,7 +43,7 @@ var Timetable = function () {
             var lastTime = getDateWithHourOffset(currentTime, 1);
 
             if ((currentTime < busTime) && (busTime < lastTime)) {
-                console.log('foundbus: ' + busTime);
+                //console.log('foundbus: ' + busTime);
 
                 var busText = formatBusTime(busTime, obj);
                 arr.push(busText);
