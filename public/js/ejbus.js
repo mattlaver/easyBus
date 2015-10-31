@@ -1,7 +1,4 @@
 var board = new DepartureBoard(document.getElementById('academy'), {rowCount: 8, letterCount: 26});
-
-board.setValue(['Academy Bus Timetable']);
-
 var host = location.origin.replace(/^http/, 'ws');
 var socket = io.connect(host);
 
