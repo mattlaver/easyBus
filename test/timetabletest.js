@@ -73,6 +73,6 @@ describe('Timetable', function() {
 
             assert.equal('15:05 Eaton Green', times[1]);
         });
-        
+
     });
 });
