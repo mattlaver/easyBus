@@ -57,11 +57,22 @@ describe('Timetable', function() {
     });
 
     describe('leavingSoon', function () {
-       it('should contain the title', function() {
-           var date = new Date();
-           var theTitle = 'the title';
-           var times = timetable.leavingSoon(date, [], theTitle);
-           assert.equal(theTitle, times[0]);
-       });
+        it('should contain the title', function() {
+            var date = new Date();
+            var theTitle = 'the title';
+            var times = timetable.leavingSoon(date, [], theTitle);
+            assert.equal(theTitle, times[0]);
+        });
+
+        it('should only return times after the passed in date', function() {
+            var date = new Date();
+            date.setHours(15);
+            date.setMinutes(1);
+
+            var times = timetable.leavingSoon(date, academy, '');
+
+            assert.equal('15:05 Eaton Green', times[1]);
+        });
+        
     });
 });

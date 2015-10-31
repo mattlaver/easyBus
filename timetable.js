@@ -60,7 +60,6 @@ var Timetable = function () {
         parseTime: parseTime,
         leavingSoon: leavingSoon
     }
-
 };
 
 module.exports = Timetable();
