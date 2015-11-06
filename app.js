@@ -31,11 +31,13 @@ io.on('connection', function (client) {
         client.broadcast.emit('latestTimes', times);
     }
 
-    broadcastTimes();
-
-    setInterval(function () {
+    function getTimes(){
+        console.log('getTimes');
         broadcastTimes();
-    }, 2000);
+        setTimeout(getTimes, 5000);
+    }
+
+    getTimes();
 
 });
 
