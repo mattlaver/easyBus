@@ -1,137 +1,257 @@
 [
   {
-    "bus": "A",
-    "time": "07.20",
-    "destination": "Eaton Green, Academy"
+  "bus": "3",
+  "time": "07.00",
+  "destination": "Academy"
   },
   {
-    "bus": "B",
+    "bus": "3",
+    "time": "07.15",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "07.30",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
     "time": "07.45",
-    "destination": "Eaton Green, Academy"
+    "destination": "Academy"
   },
   {
-    "bus": "A",
-    "time": "08.10",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "08.00",
+    "destination": "Academy"
   },
   {
-    "bus": "B",
-    "time": "08.35",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "08.15",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
+    "bus": "3",
+    "time": "08.30",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "08.45",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
     "time": "09.00",
-    "destination": "Eaton Green, Academy"
+    "destination": "Academy"
   },
   {
-    "bus": "B",
-    "time": "09.25",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "09.15",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
-    "time": "09.50",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "09.30",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
-    "time": "10.40",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "09.45",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
+    "bus": "3",
+    "time": "10.00",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "10.15",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "10.30",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
+    "time": "10.50",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
+    "time": "11.10",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
     "time": "11.30",
-    "destination": "Eaton Green, Academy"
+    "destination": "H89, Academy"
   },
   {
-    "bus": "A",
-    "time": "12.20",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "11.50",
+    "destination": "H89, Academy"
   },
   {
-    "bus": "A",
+    "bus": "3",
+    "time": "12.10",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
+    "time": "12.30",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
+    "time": "12.50",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
     "time": "13.10",
-    "destination": "Eaton Green, Academy"
+    "destination": "H89, Academy"
   },
   {
-    "bus": "A",
-    "time": "14.00",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "13.30",
+    "destination": "H89, Academy"
   },
   {
-    "bus": "A",
+    "bus": "3",
+    "time": "13.50",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
+    "time": "14.10",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
+    "time": "14.30",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
     "time": "14.50",
-    "destination": "Eaton Green, Academy"
+    "destination": "H89, Academy"
   },
   {
-    "bus": "A",
-    "time": "15.40",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "15.10",
+    "destination": "H89, Academy"
   },
   {
-    "bus": "B",
-    "time": "16.20",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "15.30",
+    "destination": "H89, Academy"
   },
   {
-    "bus": "A",
+    "bus": "3",
+    "time": "15.50",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
+    "time": "16.10",
+    "destination": "H89, Academy"
+  },
+  {
+    "bus": "3",
     "time": "16.30",
-    "destination": "Eaton Green, Academy"
+    "destination": "H89, Academy"
   },
   {
-    "bus": "B",
-    "time": "17.10",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "16.47",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
-    "time": "17.20",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "17.02",
+    "destination": "Academy"
   },
   {
-    "bus": "B",
-    "time": "18.00",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "17.17",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
-    "time": "18.10",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "17.32",
+    "destination": "Academy"
   },
   {
-    "bus": "B",
-    "time": "18.50",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "17.47",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
-    "time": "19.00",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "18.02",
+    "destination": "H89, Academy"
   },
   {
-    "bus": "B",
-    "time": "19.40",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "18.17",
+    "destination": "H89, Academy"
   },
   {
-    "bus": "A",
-    "time": "19.50",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "18.32",
+    "destination": "H89, Academy"
   },
   {
-    "bus": "A",
-    "time": "20.40",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "18.47",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
-    "time": "21.30",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "19.02",
+    "destination": "Academy"
   },
   {
-    "bus": "A",
-    "time": "23.30",
-    "destination": "Eaton Green, Academy"
+    "bus": "3",
+    "time": "19.17",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "19.32",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "19.47",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "20.02",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "20.17",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "20.32",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "20.47",
+    "destination": "Academy"
+  },
+  {
+    "bus": "3",
+    "time": "21.02",
+    "destination": "H89, Academy"
   }
 ]
