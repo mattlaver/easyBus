@@ -1,428 +1,392 @@
 [
   {
-    "bus": "A",
-    "time": "07.05",
-    "destination": "Eaton Green, Station"
+    "bus": "3",
+    "time": "07.08",
+    "destination": "Station"
   },
   {
-    "bus": "A",
-    "time": "07.35",
-    "destination": "Eaton Green"
+    "bus": "4",
+    "time": "07.15",
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
+    "bus": "3",
+    "time": "07.23",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
+    "time": "07.30",
+    "destination": "H89, Eaton Green"
+  },
+  {
+  "bus": "3",
+  "time": "07.38",
+  "destination": "Station"
+  },
+  {
+    "bus": "4",
     "time": "07.45",
-    "destination": "Eaton Green"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
-    "time": "07.55",
-    "destination": "Eaton Green, Station"
+    "bus": "3",
+    "time": "07.53",
+    "destination": "Station"
   },
   {
-    "bus": "A",
-    "time": "08.25",
-    "destination": "Eaton Green"
+    "bus": "4",
+    "time": "08.00",
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
-    "time": "08.35",
-    "destination": "Eaton Green"
+    "bus": "3",
+    "time": "08.08",
+    "destination": "Station"
   },
   {
-    "bus": "A",
+    "bus": "4",
+    "time": "08.15",
+    "destination": "H89, Eaton Green"
+  },
+  {
+    "bus": "3",
+    "time": "08.23",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
+    "time": "08.30",
+    "destination": "H89, Eaton Green"
+  },
+  {
+    "bus": "3",
+    "time": "08.38",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
     "time": "08.45",
-    "destination": "Eaton Green, Station"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
+    "bus": "3",
+    "time": "08.53",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
     "time": "09.00",
-    "destination": "Eaton Green"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
-    "time": "09.10",
-    "destination": "Eaton Green, Station"
+    "bus": "3",
+    "time": "09.08",
+    "destination": "Station"
   },
   {
-    "bus": "A",
+    "bus": "4",
     "time": "09.15",
-    "destination": "Eaton Green"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
-    "time": "09.25",
-    "destination": "Eaton Green"
+    "bus": "3",
+    "time": "09.23",
+    "destination": "Station"
   },
   {
-    "bus": "A",
-    "time": "09.35",
-    "destination": "Eaton Green, Station"
+    "bus": "4",
+    "time": "09.30",
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
-    "time": "09.40",
-    "destination": "Eaton Green"
+    "bus": "3",
+    "time": "09.38",
+    "destination": "Station"
   },
   {
-    "bus": "B",
-    "time": "09.50",
-    "destination": "Eaton Green"
+    "bus": "4",
+    "time": "09.45",
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
+    "bus": "4",
     "time": "10.00",
-    "destination": "Hangar 89"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
-    "time": "10.05",
-    "destination": "Eaton Green"
+    "bus": "3",
+    "time": "10.08",
+    "destination": "Station"
   },
   {
-    "bus": "A",
-    "time": "10.15",
-    "destination": "Eaton Green"
+    "bus": "3",
+    "time": "10.23",
+    "destination": "Station"
   },
   {
-    "bus": "B",
-    "time": "10.20",
-    "destination": "Hangar 89"
-  },
-  {
-    "bus": "A",
-    "time": "10.25",
-    "destination": "Eaton Green, Station"
-  },
-  {
-    "bus": "B",
+    "bus": "3",
     "time": "10.40",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "A",
-    "time": "10.55",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "B",
+    "bus": "3",
     "time": "11.00",
-    "destination": "Hangar 89"
-  },
-  {
-    "bus": "A",
-    "time": "11.05",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "11.15",
     "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "11.20",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "11.40",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "A",
-    "time": "11.45",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "11.55",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "B",
+    "bus": "3",
     "time": "12.00",
-    "destination": "Hangar 89"
-  },
-  {
-    "bus": "A",
-    "time": "12.05",
     "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
-    "time": "12.20",
-    "destination": "Hangar 89"
+  "bus": "3",
+  "time": "12.20",
+  "destination": "Eaton Green, Station"
   },
   {
-    "bus": "A",
-    "time": "12.35",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "B",
+    "bus": "3",
     "time": "12.40",
-    "destination": "Hangar 89"
-  },
-  {
-    "bus": "A",
-    "time": "12.45",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "12.55",
     "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "13.00",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "13.20",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "A",
-    "time": "13.25",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "13.35",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "B",
+    "bus": "3",
     "time": "13.40",
-    "destination": "Hangar 89"
-  },
-  {
-    "bus": "A",
-    "time": "13.45",
     "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "14.00",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "A",
-    "time": "14.15",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "B",
+    "bus": "3",
     "time": "14.20",
-    "destination": "Hangar 89"
-  },
-  {
-    "bus": "A",
-    "time": "14.25",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "14.35",
     "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "14.40",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "15.00",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "A",
-    "time": "15.05",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "15.15",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "B",
+    "bus": "3",
     "time": "15.20",
-    "destination": "Hangar 89"
-  },
-  {
-    "bus": "A",
-    "time": "15.25",
     "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "15.40",
-    "destination": "Hangar 89"
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "A",
-    "time": "15.55",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "B",
+    "bus": "3",
     "time": "16.00",
-    "destination": "Hangar 89"
-  },
-  {
-    "bus": "A",
-    "time": "16.05",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "16.15",
     "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
-    "time": "16.30",
-    "destination": "Eaton Green"
+    "bus": "3",
+    "time": "16.20",
+    "destination": "Eaton Green, Station"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "16.40",
-    "destination": "Eaton Green"
+    "destination": "Station"
   },
   {
-    "bus": "A",
+    "bus": "4",
     "time": "16.45",
-    "destination": "Eaton Green"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
-    "time": "16.50",
-    "destination": "Eaton Green, Station"
-  },
-  {
-    "bus": "A",
+    "bus": "3",
     "time": "16.55",
-    "destination": "Eaton Green"
+    "destination": "Station"
   },
   {
-    "bus": "A",
-    "time": "17.05",
-    "destination": "Eaton Green, Station"
+    "bus": "4",
+    "time": "17.00",
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
+    "bus": "3",
+    "time": "17.10",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
+    "time": "17.15",
+    "destination": "H89, Eaton Green"
+  },
+  {
+    "bus": "3",
     "time": "17.25",
-    "destination": "Eaton Green"
+    "destination": "Station"
   },
   {
-    "bus": "A",
-    "time": "17.35",
-    "destination": "Eaton Green"
+    "bus": "4",
+    "time": "17.30",
+    "destination": "H89, Eaton Green"
   },
-
   {
-    "bus": "A",
+    "bus": "3",
+    "time": "17.40",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
     "time": "17.45",
-    "destination": "Eaton Green"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
-    "time": "17.45",
-    "destination": "Eaton Green, Station"
-  },
-  {
-    "bus": "A",
+    "bus": "3",
     "time": "17.55",
-    "destination": "Eaton Green, Station"
+    "destination": "Station"
   },
   {
-    "bus": "B",
+    "bus": "4",
+    "time": "18.00",
+    "destination": "H89, Eaton Green"
+  },
+  {
+    "bus": "3",
+    "time": "18.10",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
     "time": "18.15",
-    "destination": "Eaton Green"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
+    "bus": "3",
     "time": "18.25",
-    "destination": "Eaton Green"
+    "destination": "Station"
   },
   {
-    "bus": "A",
-    "time": "18.35",
-    "destination": "Eaton Green"
+    "bus": "4",
+    "time": "18.30",
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
-    "time": "18.35",
-    "destination": "Eaton Green, Station"
+    "bus": "3",
+    "time": "18.40",
+    "destination": "Station"
   },
   {
-    "bus": "A",
+    "bus": "4",
     "time": "18.45",
-    "destination": "Eaton Green, Station"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
-    "time": "19.05",
-    "destination": "Eaton Green"
+    "bus": "3",
+    "time": "18.55",
+    "destination": "Station"
   },
   {
-    "bus": "A",
+    "bus": "4",
+    "time": "19.00",
+    "destination": "H89, Eaton Green"
+  },
+  {
+    "bus": "3",
+    "time": "19.10",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
     "time": "19.15",
-    "destination": "Eaton Green"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "B",
+    "bus": "3",
     "time": "19.25",
-    "destination": "Eaton Green, Station"
+    "destination": "Station"
   },
   {
-    "bus": "A",
-    "time": "19.25",
-    "destination": "Eaton Green"
+    "bus": "4",
+    "time": "19.30",
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
-    "time": "19.35",
-    "destination": "Eaton Green, Station"
+    "bus": "3",
+    "time": "19.40",
+    "destination": "Station"
   },
   {
-    "bus": "B",
-    "time": "19.35",
-    "destination": "Eaton Green"
+    "bus": "4",
+    "time": "19.45",
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
-    "time": "20.05",
-    "destination": "Eaton Green"
+    "bus": "3",
+    "time": "19.55",
+    "destination": "Station"
   },
   {
-    "bus": "A",
+    "bus": "4",
+    "time": "20.00",
+    "destination": "H89, Eaton Green"
+  },
+  {
+    "bus": "3",
+    "time": "20.10",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
     "time": "20.15",
-    "destination": "Eaton Green"
+    "destination": "H89, Eaton Green"
   },
   {
-    "bus": "A",
+    "bus": "3",
     "time": "20.25",
-    "destination": "Eaton Green, Station"
+    "destination": "Station"
   },
   {
-    "bus": "A",
+    "bus": "4",
+    "time": "20.30",
+    "destination": "H89, Eaton Green"
+  },
+  {
+    "bus": "3",
+    "time": "20.40",
+    "destination": "Station"
+  },
+  {
+    "bus": "4",
+    "time": "20.45",
+    "destination": "H89, Eaton Green"
+  },
+  {
+    "bus": "3",
     "time": "20.55",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "21.05",
-    "destination": "Eaton Green"
-  },
-  {
-    "bus": "A",
-    "time": "21.15",
-    "destination": "Eaton Green, Station"
+    "destination": "Station"
   }
 ]
