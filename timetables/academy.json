@@ -20,9 +20,9 @@
     "destination": "H89, Eaton Green"
   },
   {
-  "bus": "3",
-  "time": "07.38",
-  "destination": "Station"
+    "bus": "3",
+    "time": "07.38",
+    "destination": "Station"
   },
   {
     "bus": "4",
@@ -150,9 +150,9 @@
     "destination": "Eaton Green, Station"
   },
   {
-  "bus": "3",
-  "time": "12.20",
-  "destination": "Eaton Green, Station"
+    "bus": "3",
+    "time": "12.20",
+    "destination": "Eaton Green, Station"
   },
   {
     "bus": "3",
