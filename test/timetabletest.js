@@ -71,7 +71,7 @@ describe('Timetable', function() {
 
             var times = timetable.leavingSoon(date, academy, '');
 
-            assert.equal('15:05 Eaton Green', times[1]);
+            assert.equal('15:20 Eaton Green, Station', times[1]);
         });
 
     });
