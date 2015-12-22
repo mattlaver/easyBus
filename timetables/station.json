@@ -76,17 +76,7 @@
   },
   {
     "bus": "3",
-    "time": "10.50",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
     "time": "11.10",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
-    "time": "11.30",
     "destination": "H89, Academy"
   },
   {
@@ -96,17 +86,7 @@
   },
   {
     "bus": "3",
-    "time": "12.10",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
     "time": "12.30",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
-    "time": "12.50",
     "destination": "H89, Academy"
   },
   {
@@ -116,17 +96,7 @@
   },
   {
     "bus": "3",
-    "time": "13.30",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
     "time": "13.50",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
-    "time": "14.10",
     "destination": "H89, Academy"
   },
   {
@@ -136,27 +106,12 @@
   },
   {
     "bus": "3",
-    "time": "14.50",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
     "time": "15.10",
     "destination": "H89, Academy"
   },
   {
     "bus": "3",
-    "time": "15.30",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
     "time": "15.50",
-    "destination": "H89, Academy"
-  },
-  {
-    "bus": "3",
-    "time": "16.10",
     "destination": "H89, Academy"
   },
   {
